@@ -1,0 +1,17 @@
+{
+  "name": "nucampsite",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Goodnight",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "lite-server": "^2.6.1"
+  },
+  "description": "This is a website for a fictional campsites review website, called Nucamp."
+}
