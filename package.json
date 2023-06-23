@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.2.3",
+    "font-awesome": "^4.7.0",
     "lite-server": "^2.6.1"
   },
   "description": "This is a website for a fictional campsites review website, called Nucamp."
